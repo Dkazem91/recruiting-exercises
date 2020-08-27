@@ -183,7 +183,7 @@ class TestInventoryAllocator(unittest.TestCase):
             },
             {
                 'name': 'youandme',
-                'inventory': { 'apple': 100, 'orange': 5, 'banana': 500, 'orange': 1000 }
+                'inventory': { 'apple': 100, 'banana': 500, 'orange': 1000 }
             }
         ]
 
