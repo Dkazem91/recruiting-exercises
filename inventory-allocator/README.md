@@ -1,4 +1,5 @@
-
+### Running Tests
+while at src directory root level, run `python -m unittest discover` or `python -m unittest test_InventoryAllocator.py` thanks!
 
 ### Problem
 
